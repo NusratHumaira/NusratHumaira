@@ -6,8 +6,9 @@ Skills: Asp. Net Core/Blazor/Angular
 
 - 🔭 I’m currently working on Asp. net Core 
 - 👯 I’m looking to collaborate on open source projects
-- 
-![Profile views](https://gpvc.arturio.dev/NusratHumaira)  
+  
+![Profile views](https://komarev.com/ghpvc/?username=NusratHumaira)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NusratHumaira)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nusrat-humaira//)  
 
